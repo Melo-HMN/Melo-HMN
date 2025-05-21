@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=808080&text=Henrique%20Melo&textBg=false&fontSize=72&fontAlign=50&fontAlignY=50&animation=scaleIn&section=header&reversal=false&strokeWidth=5&stroke=909090">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=808080&text=Henrique%20Melo&textBg=false&fontSize=72&fontAlign=50&fontAlignY=50&animation=scaleIn&section=header&reversal=false&strokeWidth=0&stroke=909090">
 </h1>
 
 <p align="center">
