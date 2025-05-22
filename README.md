@@ -10,7 +10,7 @@
 
 <img align="right" height="200" src="https://cdns-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/1900x1900-000000-80-0-0.jpg">
 
-Meu nome é Henrique Melo Nogueira, sou um estudante de Redes de Computadores no Senai Paulo SKAF, além de cursas BC&T na Univerdade Federal do ABC (UFABC). Estou a procura de um estágio na área para primeira experiência no mercado de trabalho. Durante meu curso técnico desenvolvi experiência em computação em nuvem principalmente nas plataformas da Azure e da Amazon AWS, conhecimento em Sistemas Operacionais como Linux e Windows, conhecimento em monitoramento com uso do Zabbix e conehcimento em Windows Server.
+Meu nome é Henrique Melo Nogueira, sou um estudante de Redes de Computadores no Senai Paulo SKAF, além de cursas BC&T na Univerdade Federal do ABC (UFABC). Estou a procura de um estágio na área para primeira experiência no mercado de trabalho. Durante meu curso técnico desenvolvi experiência em computação em nuvem principalmente nas plataformas da Azure e da Amazon AWS, conhecimento em Sistemas Operacionais como Linux e Windows, conhecimento em monitoramento com uso do Zabbix e conehcimento em Windows Server, experiência básica em laboratórios de Física e Química. 
 
 _**"Quem acredita sempre alcança" - Melo, Henrique 2025.**_
 
@@ -38,4 +38,7 @@ _**"Quem acredita sempre alcança" - Melo, Henrique 2025.**_
 | Certificação | Nome |
 | --- | --- |
 | ![AWS CF](https://img.shields.io/badge/AWS%20Cloud%20Fundations-t?style=flat&logo=amazonwebservices&color=orange) | AWS Cloud Fundations |
-| ![AWS CD](https://img.shields.io/badge/AWS%20Cloud%20Developer-t?style=flat&logo=amazonwebservices&color=orange) | AWS Cloud Developer |
+| ![AWS CD](https://img.shields.io/badge/AWS%20Cloud%20Developing-t?style=flat&logo=amazonwebservices&color=orange) | AWS Cloud Developing |
+
+---
+
