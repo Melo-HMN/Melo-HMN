@@ -22,5 +22,20 @@ _**"Quem acredita sempre alcança" - Melo, Henrique 2025.**_
   <img src="https://skillicons.dev/icons?i=linux,aws,azure,mysql,grafana,windows,nginx,github,arduino">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
+  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff">
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
 </p>
+
+---
+
+
+
+
+## Certificações
+
+| Certificação | Nome |
+| --- | --- |
+| ![AWS CF](https://img.shields.io/badge/AWS%20Cloud%20Fundations-t?style=flat&logo=amazonwebservices&color=orange) | AWS Cloud Fundations |
+| ![AWS CD](https://img.shields.io/badge/AWS%20Cloud%20Developer-t?style=flat&logo=amazonwebservices&color=orange) | AWS Cloud Developer |
